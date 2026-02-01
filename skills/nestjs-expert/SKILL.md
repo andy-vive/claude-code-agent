@@ -36,6 +36,7 @@ Load detailed guidance based on context:
 
 | Topic | Reference | Load When |
 |-------|-----------|-----------|
+| Structure | `references/structure.md` | Project structure, modules, controllers, services, DTOs |
 | Controllers | `references/controller.md` | Creating controllers, routing, Swagger docs |
 | Command Controllers | `references/controller.cmd.md` | Creating controllers for handling tcp communication |
 | CQRS | `references/cqrs.md` | Implementing commands, queries, events following CQRS pattern |
